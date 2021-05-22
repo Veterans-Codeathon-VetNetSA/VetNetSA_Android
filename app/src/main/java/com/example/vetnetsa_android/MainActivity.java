@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
     private void method () {
         Log.d(TAG, "Temp message!");
     }
+
+    private void testmethod () {
+        Log.d(TAG, "Testing");
+    }
 }
