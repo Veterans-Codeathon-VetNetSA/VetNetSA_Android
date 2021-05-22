@@ -21,6 +21,5 @@ public class MainActivity extends AppCompatActivity {
 
     private void testmethod () {
         Log.d(TAG, "Testing");
-        Log.d(TAG, "Testing");
     }
 }
